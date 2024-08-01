@@ -8,15 +8,21 @@ Los datos analizados en este proyecto son una muestra de 1000 gasolineras de una
 
 Después de analizar la información de esta muestra me han surgido las siguientes preguntas:
 
-🔎​ ¿Cuál es la provincia con más gasolineras? ¿Y la provincia con menos gasolineras?
+🔎​ ¿Cuál es la provincia con más gasolineras?
 
-🔎​ ¿Número de gasolineras por provincia?
+🔎​ ¿Cuál es la provincia con menos gasolineras?
+
+🔎​ Lista de provincias con su cantidad de gasolineras.
 
 🔎​ ¿Qué compañía tiene más gasolineras?
 
-🔎​ ¿Dónde se encuentra la gasolinera con el precio más alto de gasolina 95? ¿Y la dirección de la gasolinera con el precio más bajo de gasolina 95?
+🔎​ ¿Dónde se encuentra la gasolinera con el precio más alto de gasolina 95? 
 
-🔎​ ¿Cuántos tipos de gcombustible se comercializan al público?
+🔎 ¿Dónde se encuentra la gasolinera con el precio más bajo de gasolina 95?
+
+🔎 Lista de los diferentes tipos de combustible que se comercializan al público.
+
+🔎​ ¿Cuántos tipos de combustible se comercializan al público?
 
 🔎​ ¿Cuál es el tipo de combustible que menos se comercializa en las gasolineras?
 
@@ -26,6 +32,10 @@ Después de analizar la información de esta muestra me han surgido las siguient
 
 🔎​ ¿Cuál es el precio medio por tipo de combustible?
 
+Puedes acceder directamente al dataset a traves de este enlace 👉 https://github.com/gescuderh/precio-gasolina-spain/blob/main/gasolineras_espa%C3%B1a.sql. 
+En él se ha realizado la limpieza de los datos y el posterior análisis mediante SQL Server Management Studio.
+
+Si visitas el siguiente enlace 👉 te enseño el dashboard que he elaborado con la información obtenida.
 
 
 
