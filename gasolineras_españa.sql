@@ -1,5 +1,3 @@
--- Paso previo: importamos csv en Excel y sustituimos los "." de fuel_price por "," para que SQL comprenda que es un valor decimal.
-
 -- Creamos la database donde vamos alojar el archivo csv que vamos a importar
 CREATE DATABASE gasolineras;
 
