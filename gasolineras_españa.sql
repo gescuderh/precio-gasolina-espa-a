@@ -4,7 +4,7 @@ CREATE DATABASE gasolineras;
 -- Seleccionamos la tabla ya creada
 USE gasolineras;
 
--- Cargamos el archivo csv. Hacemos click en la db, new task e importamos flat file.
+-- Cargamos el archivo csv.
 
 -- Mostramos el contenido de la tabla creada
 SELECT * FROM lista_gasolineras;
