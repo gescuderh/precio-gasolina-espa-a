@@ -32,10 +32,9 @@ Después de analizar la información de esta muestra me han surgido las siguient
 
 🔎​ ¿Cuál es el precio medio por tipo de combustible?
 
-Puedes acceder directamente al análisis del dataset a traves de este enlace 👉 https://github.com/gescuderh/precio-gasolina-spain/blob/main/gasolineras_espa%C3%B1a.sql. 
-En él se ha realizado la limpieza de los datos y el posterior análisis mediante MySQL.
+Puedes descargar el archivo .csv original utilizado para el proyecto en la cabecera de la página, así como el archivo .sql con el análisis realizado sobre SQL Server Management Studio y el archivo .pbix que contiene el dashboard elaborado para la visualización de los resultados obtenidos.
 
-Si visitas el siguiente enlace 👉 te enseño el dashboard que he elaborado con la información obtenida.
+A comentar, en el dashboard tienes la posibilidad de ver por provincia la cantidad de gasolineras que tiene, cúantas hay abiertas 24h, cuáles son los precios medios de cada tipo de combustible que se comercializa en ella, dónde se encuentra la gasolinera con gasolina SP95 más barata y más cara y el TOP 10 compañías que tienen gasolineras en la misma. Para ello, simplemente selecciona la provincia dentro del gráfico de barras. Así mismo, seleccionando el tipo de combustible en el gráfico circular se refleja la cantidad de gasolineras que comercializan ese tipo de combustible en el gráfico de barras según la provincia.
 
 
 
